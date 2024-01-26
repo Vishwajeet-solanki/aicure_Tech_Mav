@@ -7,7 +7,7 @@ In the AI Cure - PARSEC 4.0 challenge, our goal is to develop an advanced model 
 ## Repository Contents
 * **aicure-tech-mav-experiments.ipynb:** Jupyter Notebook containing all experiments and the development process of our model.
 * **aicure-Tech-mav.zip:** Zip folder containing trained model and python script for generating predictions on new data.
-* **Report.txt:** Report on the research done to implement the solution.
+* **Report.pdf:** Report on the research done to implement the solution.
 * **README.md:** This file, containing project information and setup instructions.
 
 ## Getting Started
