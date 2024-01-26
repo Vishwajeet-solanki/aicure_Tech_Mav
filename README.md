@@ -22,11 +22,13 @@ In the AI Cure - PARSEC 4.0 challenge, our goal is to develop an advanced model 
 
 To predict heart rate using the run.py script, follow these steps:
 
-* Place your '**test_data.csv**' in the project directory.
-
+* Download the ZIP file of our project from the repository.
+* Extract the ZIP file to a directory of your choice. This will create a folder containing all the necessary project files.
+* Navigate to the directory where you extracted the project files.
+* Run the run.py script with the path to your test input file as an argument. 
 * Run the script:
 ```bash
-  python run.py test_data.csv
+  python run.py <path_to_test_file>
 ```
 * The script will create a '**results.csv**' file containing the predicted heart rates.
 
