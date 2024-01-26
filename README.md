@@ -5,8 +5,8 @@
 In the AI Cure - PARSEC 4.0 challenge, our goal is to develop an advanced model capable of accurately predicting an individual's heart rate using ECG-derived features. This project uses a rich dataset encompassing diverse attributes measured through ECG recordings, aiming to predict heart rate at specific moments for each individual.
 
 ## Repository Contents
-* **HeartRatePrediction.ipynb:** Jupyter Notebook containing all experiments and the development process of our model.
-* **run.py:** Python script for generating predictions on new data.
+* **aicure-tech-mav-experiments.ipynb:** Jupyter Notebook containing all experiments and the development process of our model.
+* **aicure-Tech-mav.zip:** Zip folder containing trained model and python script for generating predictions on new data.
 * **Report.txt:** Report on the research done to implement the solution.
 * **README.md:** This file, containing project information and setup instructions.
 
